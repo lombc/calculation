@@ -1,3 +1,6 @@
+#PROGRAMMING ASSIGNMENT 2 FOR CPSC3615-COMPUTER ARCHITECTURE
+#BY CYRUS LOMIBAO
+
 .data
 	newLine: .asciiz "\n"
 	addition: .asciiz "The addition result is: "
